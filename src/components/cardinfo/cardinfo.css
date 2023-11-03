@@ -35,11 +35,6 @@
 
 .summary-d-flex{
     display: flex;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: center;
-    align-content: flex-start;
-    flex-direction: row;
 }
 
 .Reaction{
