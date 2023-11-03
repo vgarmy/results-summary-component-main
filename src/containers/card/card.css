@@ -1,0 +1,97 @@
+.container__card__body {
+    background: var(--color-bg);
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items:flex-start;
+    -webkit-box-shadow: 0px 0px 15px 5px rgba(66, 68, 90, 0.08);
+    -moz-box-shadow: 0px 0px 15px 5px rgba(66, 68, 90, 0.08);
+    box-shadow: 0px 0px 15px 5px rgba(66, 68, 90, 0.08);
+    width: 600px;
+    line-height: 1.5;
+    
+}
+
+.container__card__body_left{
+    background: linear-gradient(var(--light-slate-blue-background), var(--light-royal-blue-background));
+    width: 50%;
+    height: 100%;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    border-radius: 1rem;
+    text-align: center;
+    color: var(--light-lavender);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 1.5rem;
+    padding: 2rem 2rem 3rem;
+}
+
+.container__card__body_left h1{
+    color: var(--pale-blue);
+    font-size: var(--p-font-size);
+    font-weight: 600;
+}
+
+.container__card__body_left h2{
+    color: var(--color-bg);
+    font-size: 1.5rem;
+}
+
+.container__card__body_left_score{
+    font-size: 3rem;
+    color: var(--color-bg);
+    font-weight: 600;
+}
+
+.container__card__body_left_score_of{
+    font-size: 0.75rem;
+    color: var(--light-lavender);
+}
+
+.container__card__body_left_cirlce{
+    border-radius: 50%;
+    background: linear-gradient(var(--violet-blue-circle), var(--persian-blue-circle));
+    width: 150px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.container__card__body_left_text{
+    font-size: 0.75rem;
+    width: 85%;
+}
+
+.container__card__body_right{
+    width: 50%;
+    height: 100%;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    border-radius: 1rem;
+    text-align: center;
+    color: var(--light-lavender);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content:flex-start;
+    align-items:flex-start;
+    gap: 1.5rem;
+    padding: 2rem 2rem 3rem;
+}
+
+.container__card__body_right_summary{
+    color: var(--dark-grey-blue);
+    font-weight: 600;
+}
