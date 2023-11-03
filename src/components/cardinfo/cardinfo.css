@@ -19,8 +19,9 @@
 }
 
 .summary_card img{
-    width: 20px;
-    margin-right: 10px;  
+    max-width: 100%;
+    display: block;
+    margin-right: 10px; 
 }
 
 .summary_card_dark{
