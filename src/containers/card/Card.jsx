@@ -18,23 +18,9 @@ const Card = () => {
 
       <div className='container__card__body_right'>
         <p className='container__card__body_right_summary'>Summary</p>
-        
-      
         <Cardinfo />
-
-        Reaction
-        80 / 100
-
-        Memory
-        92 / 100
-
-        Verbal
-        61 / 100
-
-        Visual
-        72 / 100
-
-        Continue</div>
+        <button>Continue</button>
+      </div>
     </div>
   )
 }
