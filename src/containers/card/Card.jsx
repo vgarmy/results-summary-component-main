@@ -1,5 +1,7 @@
 import React from 'react';
 import './card.css';
+import Cardinfo from '../../components/cardinfo/Cardinfo';
+
 
 const Card = () => {
   return (
@@ -17,6 +19,8 @@ const Card = () => {
       <div className='container__card__body_right'>
         <p className='container__card__body_right_summary'>Summary</p>
         
+      
+        <Cardinfo />
 
         Reaction
         80 / 100
