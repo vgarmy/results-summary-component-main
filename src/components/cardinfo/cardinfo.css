@@ -33,6 +33,15 @@
     font-weight: 600 !important;
 }
 
+.summary-d-flex{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: flex-start;
+    flex-direction: row;
+}
+
 .Reaction{
     background:  hsla(0, 100%, 67%, 0.10);
     color: var(--light-red);
