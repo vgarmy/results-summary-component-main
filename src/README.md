@@ -24,7 +24,7 @@ Users should be able to:
 
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
-- **Bonus**: Use the local JSON data to dynamically populate the content
+- Use the local JSON data to dynamically populate the content
 
 ### Screenshot
 
@@ -42,8 +42,6 @@ https://vgarmy.github.io/results-summary-component-main/assets/images/screenshoo
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
 - https://reactjs.org/ - JS library
 
 
@@ -51,11 +49,10 @@ https://vgarmy.github.io/results-summary-component-main/assets/images/screenshoo
 
 How too add json to a react comoponent. Learned mora about flexboxex.
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 ### Continued development
 
-Still nedd to learn about best proctice qith flex. Need more rect skills and start with the some react css library
+Still need to learn about best practice with flex. Need more react skills and start with the some react css library. And mobil first worlflow.
 
 
 ## Author
