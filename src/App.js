@@ -7,9 +7,9 @@ const App = () => {
   return (
     <div className='App'>
         <div className='container' role="main">
-            <Card />
-            <Footer />
+            <Card /> 
         </div>
+        <Footer />
     </div>
   )
 }

@@ -9,8 +9,8 @@ const Card = () => {
       <div className='container__card__body_left'>
         <h1>Your Result</h1>
         <div className='container__card__body_left_cirlce'>
-          <span><p className='container__card__body_left_score'>76</p>
-            <p className='container__card__body_left_score_of'>of 100</p></span>
+            <p className='container__card__body_left_score'>76</p>
+            <p className='container__card__body_left_score_of'>of 100</p>
         </div>
         <h2>Great</h2>
         <p className='container__card__body_left_text'>You scored higher than 65% of the people who have taken these tests.</p>
