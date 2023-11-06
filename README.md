@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-https://vgarmy.github.io/results-summary-component-main/assets/images/screenshoot.jpg
+<img src="screenshoot.jpg ">
 
 ### Links
 
