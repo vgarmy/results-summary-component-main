@@ -47,12 +47,14 @@ https://vgarmy.github.io/results-summary-component-main/assets/images/screenshoo
 
 ### What I learned
 
-How too add json to a react comoponent. Learned mora about flexboxex.
+How too add json to a react comoponent. Learned mora about flexboxes.
 
 
 ### Continued development
 
 Still need to learn about best practice with flex. Need more react skills and start with the some react css library. And mobil first worlflow.
+
+Need to larn how to view the images when link comes from a json file,
 
 
 ## Author
